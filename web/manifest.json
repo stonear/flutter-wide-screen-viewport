@@ -1,0 +1,10 @@
+{
+  "name": "Viewport Lab",
+  "short_name": "Viewport Lab",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#07539a",
+  "description": "A centered mobile viewport on any screen.",
+  "icons": [{"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}
